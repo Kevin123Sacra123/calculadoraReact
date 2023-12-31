@@ -9,7 +9,7 @@
   align-items: center;
 }
 
-.freecodecamp-logo-contenedor{
+.logo-contenedor{
   width: 100%;
   height: 50px;
   margin: 8px;
@@ -18,7 +18,7 @@
   justify-content: center;
 }
 
-.freecodecamp-logo{
+.logo{
   height: 40px;
 }
 

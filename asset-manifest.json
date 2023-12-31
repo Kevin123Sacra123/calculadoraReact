@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//kevin123sacra123.github.io/calculadoraReact/static/css/main.acc2db61.css",
+    "main.js": "//kevin123sacra123.github.io/calculadoraReact/static/js/main.2c7fa1ae.js",
+    "index.html": "//kevin123sacra123.github.io/calculadoraReact/index.html",
+    "main.acc2db61.css.map": "//kevin123sacra123.github.io/calculadoraReact/static/css/main.acc2db61.css.map",
+    "main.2c7fa1ae.js.map": "//kevin123sacra123.github.io/calculadoraReact/static/js/main.2c7fa1ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acc2db61.css",
+    "static/js/main.2c7fa1ae.js"
+  ]
+}
